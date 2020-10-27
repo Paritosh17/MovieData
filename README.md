@@ -10,3 +10,6 @@ To handle this:
 URL calls the respective which further calls serializer and interacts with the model for fetching the data.
 
 DataBase used is SQLLite3
+
+Project is deployed on Heroku also:
+Link :  https://imdbtaskapp.herokuapp.com/api/MovieApp
